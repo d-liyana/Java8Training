@@ -1,0 +1,7 @@
+package com.company.Exam;
+
+public class Testt {
+    public static void main(String[] args) {
+        int array[ ] = new int [  ] {1,2,3};
+    }
+}
